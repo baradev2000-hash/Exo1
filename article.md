@@ -1,3 +1,4 @@
 # CREATE
 # LIST
 # UPDATE
+# DELETE
